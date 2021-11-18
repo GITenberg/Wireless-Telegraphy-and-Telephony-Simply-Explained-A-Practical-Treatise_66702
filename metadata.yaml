@@ -1,0 +1,30 @@
+_repo: Wireless-Telegraphy-and-Telephony-Simply-Explained-A-Practical-Treatise_66702
+_version: 0.0.1
+contributor:
+  illustrator: &id001
+    agent_name: Morgan, Alfred Powell
+    aliases:
+    - Morgan, A. P. (Alfred Powell)
+    - Morgan, Alfred P. (Alfred Powell)
+    - Powell, A. M.
+    birthdate: 1889
+    deathdate: 1972
+    gutenberg_agent_id: '52269'
+    url: http://www.gutenberg.org/2009/agents/52269
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Powell_Morgan
+creator:
+  author: *id001
+description: ''
+gutenberg_issued: '2021-11-10'
+identifiers:
+  gutenberg: '66702'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Wireless Telegraphy and Telephony Simply Explained
+
+  A Practical Treatise'
+url: http://www.gutenberg.org/ebooks/66702
