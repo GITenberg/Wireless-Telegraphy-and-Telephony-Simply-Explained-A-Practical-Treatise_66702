@@ -12,9 +12,14 @@ contributor:
     gutenberg_agent_id: '52269'
     url: http://www.gutenberg.org/2009/agents/52269
     wikipedia: https://en.wikipedia.org/wiki/Alfred_Powell_Morgan
+covers:
+- cover_type: archival
+  image_path: 66702-h/images/cover.jpg
 creator:
   author: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66702#Wireless-Telegraphy-and-Telephony-Simply-Explained-A-Practical-Treatise
 gutenberg_issued: '2021-11-10'
 identifiers:
   gutenberg: '66702'
